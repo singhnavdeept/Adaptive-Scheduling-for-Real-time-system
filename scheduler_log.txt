@@ -1,0 +1,179 @@
+[Time 0.0] Task 1 took R4
+[Time 0.5] Random AperiodicTask Task 4
+[Time 0.5] Task 4 took R1
+[Time 0.6] Task 4 released R1
+[Time 0.6] Task 4 completed
+[Time 0.7] Task 1 released R4
+[Time 0.7] Task 1 completed
+[Time 1.1] Task 2 took R4
+[Time 1.6] Task 2 released R4
+[Time 1.6] Task 2 completed
+[Time 2.0] Task 3 took R3
+[Time 2.9] Task 3 released R3
+[Time 2.9] Task 3 completed
+[Time 4.6] Random AperiodicTask Task 5
+[Time 4.6] Task 5 took R2
+[Time 4.7] Random PeriodicTask Task 6
+[Time 5.0] Random PeriodicTask Task 7
+[Time 5.2] Random PeriodicTask Task 8
+[Time 5.4] Task 7 completed
+[Time 6.2] Task 5 released R2
+[Time 6.2] Task 5 completed
+[Time 6.3] Task 6 took R1
+[Time 7.2] Task 6 released R1
+[Time 7.2] Task 6 completed
+[Time 7.3] Task 8 took R1
+[Time 7.6] Random PeriodicTask Task 9
+[Time 9.5] Task 8 released R1
+[Time 9.5] Task 8 completed
+[Time 9.6] Task 9 took R4
+[Time 10.6] Task 9 released R4
+[Time 10.6] Task 9 completed
+[Time 12.2] Added SporadicTask Task 10
+[Time 12.2] Task 10 took R4
+[Time 12.7] Random PeriodicTask Task 11
+[Time 12.7] Task 11 took R1
+[Time 12.8] Added AperiodicTask Task 12
+[Time 13.4] Added AperiodicTask Task 13
+[Time 13.4] Task 13 took R3
+[Time 13.9] Added AperiodicTask Task 14
+[Time 14.3] Task 13 released R3
+[Time 14.3] Task 13 completed
+[Time 14.4] Added SporadicTask Task 15
+[Time 14.6] Random PeriodicTask Task 16
+[Time 14.9] Added PeriodicTask Task 17
+[Time 15.0] Task 12 completed
+[Time 15.1] Task 14 took R2
+[Time 15.2] Task 14 released R2
+[Time 15.2] Task 14 completed
+[Time 15.5] Added PeriodicTask Task 18
+[Time 15.5] Task 16 took R3
+[Time 16.0] Added SporadicTask Task 19
+[Time 16.5] Added PeriodicTask Task 20
+[Time 16.6] Task 16 released R3
+[Time 16.6] Task 16 completed
+[Time 16.7] Task 18 took R2
+[Time 17.0] Added SporadicTask Task 21
+[Time 17.1] Task 18 released R2
+[Time 17.1] Task 18 completed
+[Time 17.5] Added AperiodicTask Task 22
+[Time 17.5] Random PeriodicTask Task 23
+[Time 18.4] Task 10 released R4
+[Time 18.4] Task 10 completed
+[Time 18.5] Task 17 took R4
+[Time 18.5] Task 17 missed deadline
+[Time 20.1] Random AperiodicTask Task 24
+[Time 20.8] Random PeriodicTask Task 25
+[Time 21.0] Task 24 completed
+[Time 21.2] Random SporadicTask Task 26
+[Time 21.5] Regenerated Periodic Task 27
+[Time 21.7] Random AperiodicTask Task 28
+[Time 21.9] Task 26 completed
+[Time 22.1] Random AperiodicTask Task 29
+[Time 22.2] Task 29 completed
+[Time 23.0] Random PeriodicTask Task 30
+[Time 23.5] Random SporadicTask Task 31
+[Time 24.0] Task 30 completed
+[Time 24.1] Task 31 took R2
+[Time 25.3] Random SporadicTask Task 32
+[Time 25.5] Regenerated Periodic Task 33
+[Time 25.9] Task 31 released R2
+[Time 25.9] Task 31 completed
+[Time 26.0] Task 19 missed deadline
+[Time 26.1] Task 20 missed deadline
+[Time 26.2] Task 21 missed deadline
+[Time 26.3] Task 22 missed deadline
+[Time 26.4] Task 25 took R3
+[Time 26.5] Regenerated Periodic Task 34
+[Time 26.7] Regenerated Periodic Task 35
+[Time 27.0] Task 25 released R3
+[Time 27.0] Task 25 completed
+[Time 27.1] Task 27 took R3
+[Time 27.9] Task 27 released R3
+[Time 27.9] Task 27 completed
+[Time 28.0] Task 34 took R3
+[Time 28.9] Task 34 released R3
+[Time 28.9] Task 34 completed
+[Time 29.0] Task 11 missed deadline
+[Time 29.1] Task 15 missed deadline
+[Time 29.2] Task 23 took R3
+[Time 29.2] Task 23 missed deadline
+[Time 29.3] Task 28 missed deadline
+[Time 29.7] Random PeriodicTask Task 36
+[Time 30.1] Task 35 completed
+[Time 30.2] Task 32 took R2
+[Time 30.5] Task 32 released R2
+[Time 30.5] Task 32 completed
+[Time 31.3] Task 33 completed
+[Time 31.4] Task 36 took R2
+[Time 32.4] Task 36 released R2
+[Time 32.4] Task 36 completed
+[Time 35.3] Random PeriodicTask Task 37
+[Time 35.3] Task 37 took R2
+[Time 35.5] Random PeriodicTask Task 38
+[Time 37.1] Random PeriodicTask Task 39
+[Time 37.1] Task 38 completed
+[Time 37.3] Task 39 completed
+[Time 37.5] Random AperiodicTask Task 40
+[Time 37.6] Task 37 released R2
+[Time 37.6] Task 37 completed
+[Time 39.0] Random PeriodicTask Task 41
+[Time 39.0] Task 40 completed
+[Time 39.5] Task 41 completed
+[Time 43.2] Random PeriodicTask Task 42
+[Time 43.4] Task 42 completed
+[Time 46.5] Random SporadicTask Task 43
+[Time 48.5] Random PeriodicTask Task 44
+[Time 49.1] Task 43 completed
+[Time 49.2] Task 44 took R2
+[Time 50.0] Task 44 released R2
+[Time 50.0] Task 44 completed
+[Time 60.4] Added PeriodicTask Task 45
+[Time 60.7] Task 45 completed
+[Time 61.1] Added SporadicTask Task 46
+[Time 61.6] Added PeriodicTask Task 47
+[Time 62.2] Added SporadicTask Task 48
+[Time 62.7] Added PeriodicTask Task 49
+[Time 62.7] Task 47 completed
+[Time 63.3] Added SporadicTask Task 50
+[Time 63.8] Added SporadicTask Task 51
+[Time 64.4] Added SporadicTask Task 52
+[Time 64.4] Task 48 took R2
+[Time 65.0] Added SporadicTask Task 53
+[Time 65.4] Task 48 released R2
+[Time 65.4] Task 48 completed
+[Time 65.5] Task 50 completed
+[Time 65.6] Added AperiodicTask Task 54
+[Time 66.6] Added AperiodicTask Task 55
+[Time 67.4] Added SporadicTask Task 56
+[Time 67.5] Task 52 completed
+[Time 67.6] Task 49 took R2
+[Time 68.1] Added PeriodicTask Task 57
+[Time 68.5] Task 49 released R2
+[Time 68.5] Task 49 completed
+[Time 69.0] Task 53 completed
+[Time 69.1] Task 54 took R2
+[Time 69.7] Task 54 released R2
+[Time 69.7] Task 54 completed
+[Time 69.8] Task 46 missed deadline
+[Time 70.1] Added PeriodicTask Task 58
+[Time 70.7] Added SporadicTask Task 59
+[Time 71.1] Task 58 completed
+[Time 71.2] Added PeriodicTask Task 60
+[Time 71.4] Task 56 completed
+[Time 71.7] Task 55 missed deadline
+[Time 71.8] Task 51 took R2
+[Time 71.9] Added AperiodicTask Task 61
+[Time 71.9] Task 51 missed deadline
+[Time 72.5] Added PeriodicTask Task 62
+[Time 73.0] Added AperiodicTask Task 63
+[Time 73.5] Task 62 completed
+[Time 74.1] Task 57 completed
+[Time 75.2] Added PeriodicTask Task 64
+[Time 75.2] Task 61 completed
+[Time 75.8] Added AperiodicTask Task 65
+[Time 76.0] Task 65 completed
+[Time 76.4] Task 63 completed
+[Time 78.8] Task 59 missed deadline
+[Time 79.8] Task 60 completed
+[Time 80.9] Task 64 completed
