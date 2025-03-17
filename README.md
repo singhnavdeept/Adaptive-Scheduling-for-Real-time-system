@@ -1,4 +1,4 @@
-
+#REAL-TIME SCHEDULING
 ### Core Purpose
 At its heart, your project simulates an operating system scheduler for real-time tasks, with adaptivity and visualization as key hooks. Adding deadlock simulation amps up the complexity and visual appeal. So, the objectives could center on demonstrating, analyzing, or teaching something valuable about real-time systems.
 
